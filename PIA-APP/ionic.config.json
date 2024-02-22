@@ -1,0 +1,7 @@
+{
+  "name": "PIA-APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
